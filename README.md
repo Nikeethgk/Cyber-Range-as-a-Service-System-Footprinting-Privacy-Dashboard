@@ -23,3 +23,13 @@ A lightweight, GUI-driven Python application that simulates system reconnaissanc
    ```bash
    git clone Cyber-Range-as-a-Service-System-Footprinting-Privacy-Dashboard
    cd cyber_range_footprint_dashboard
+
+No additional packages required. Skip pip install.
+2.Usage
+  1.Launch the application
+   'python main.py'
+
+  2.Click ▶ Start Footprint to initialize the simulation.
+  3.Use ⏭ Next Phase to manually step through each reconnaissance stage, or let it run automatically.
+  4.Apply defensive controls from the right panel to mitigate exposure and observe real-time score changes.
+  5.Export session logs as JSON or reset to run a new simulation cycle.   
