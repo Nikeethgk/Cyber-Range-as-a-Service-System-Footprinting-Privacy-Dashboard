@@ -1,0 +1,4 @@
+# No external dependencies required.
+# This project runs entirely on Python's standard library.
+# Minimum Python version: 3.8
+# Built-in modules used: tkinter, platform, socket, os, json, math, time, threading, datetime
