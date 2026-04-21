@@ -1,0 +1,2 @@
+# Cyber-Range-as-a-Service-System-Footprinting-Privacy-Dashboard
+A GUI-based Python simulation built with `tkinter` that teaches reconnaissance anddefense within a CRaaS framework. Students experience phase-based attacks network discovery, OS fingerprinting, service enumeration while a live privacy dashboard tracks risk scores. Activate defenses, export logs, and reset instantly. Fully offline, zero dependencies
